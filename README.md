@@ -1,5 +1,5 @@
 - 👋 Hi there! I’m @CharlotteLaw, a high school senior from Danville, California. 
-- 👀 I’m interested in biomedical, mechanical, electrical engineering, and the humanities!
+- 👀 I am interested in biomedical, mechanical, and electrical engineering!
 - 💞️ feel free to connect with me via linkedin! https://www.linkedin.com/in/charlottelaw19/
 
 <!---

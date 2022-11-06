@@ -1,6 +1,6 @@
 - 👋 Hi there! I’m @CharlotteLaw, a high school senior from Danville, California. 
-- 👀 I am interested in biomedical, mechanical, and electrical engineering!
-- 💞️ feel free to connect with me via linkedin! https://www.linkedin.com/in/charlottelaw19/
+- 👀 I am interested in biomedical, mechanical, electrical engineering, and the humanities!
+- 💻 I have experience in 3D modeling with blender and onshape, Java, Python, HTML/CSS, C++.
 
 <!---
 CharlotteLaw/CharlotteLaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

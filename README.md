@@ -1,5 +1,5 @@
-- 👋 Hi there! I am Charlotte Law, a high school senior from Danville, California. 
-- 🌱 I am interested in biomedical/mechanical/electrical engineering, and the humanities!
+- 👋 Hi there! I am Charlotte Law, a high school senior based in Danville, California. 
+- 🌱 Interests: biomedical, mechanical, electrical engineering, and literature/languages.
 - 💻 Skills: 3D modeling with onshape, 3D animation with Blender, Java, Python, HTML/CSS, C++.
 
 <!---

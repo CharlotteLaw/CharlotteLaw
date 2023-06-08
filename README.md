@@ -1,4 +1,4 @@
-- 👋 Hi there! I am Charlotte Law, a high school senior based in Danville, California. 
+- 👋 Hi there! I am Charlotte Law, an incoming freshman at the UC Berkeley College of Engineering.
 - 🌱 Interests: biomedical, mechanical, electrical engineering, and literature/languages.
 - 💻 Skills: 3D modeling with onshape, 3D animation with Blender, Java, Python, HTML/CSS, C++.
 

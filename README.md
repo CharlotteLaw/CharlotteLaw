@@ -1,6 +1,6 @@
-- 👋 Hi there! I am Charlotte Law, an incoming freshman at the UC Berkeley College of Engineering.
-- 🌱 Interests: biomedical, mechanical, electrical engineering, and literature/languages.
-- 💻 Skills: Python, Java, Javascript, HTML/CSS, C++, 3D modeling, 3D animation.
+- 👋 Hi there! I am Charlotte Law, an incoming freshman at the UC Berkeley's College of Engineering.
+- 🌱 Interests: compouter science, mechanical and electrical engineering, and literature/languages.
+- 💻 Skills: Python, Java, JS (Node.js/React), HTML/CSS, Typescript, C++, 3D modeling & animation.
 
 <!---
 CharlotteLaw/CharlotteLaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

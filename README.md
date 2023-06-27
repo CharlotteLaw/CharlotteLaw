@@ -1,5 +1,5 @@
-- 👋 Hi there! I am Charlotte Law, an incoming freshman at the UC Berkeley's College of Engineering.
-- 🌱 Interests: compouter science, mechanical and electrical engineering, and literature/languages.
+- 👋 Hi there! I am Charlotte Law, an incoming freshman at the UC Berkeley College of Engineering.
+- 🌱 Interests: computer science, mechanical and electrical engineering, and literature/languages.
 - 💻 Skills: Python, Java, JS (Node.js/React), HTML/CSS, Typescript, C++, 3D modeling & animation.
 
 <!---

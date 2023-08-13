@@ -10,5 +10,5 @@ Hello! I'm Charlotte Law and I'm studying EECS (Electrical Engineering and Compu
 - Web Development with Javascript (Node, React, EJS)
 - Java, C++, HTML/CSS, Typescript, MySQL, Jupyter Notebook
 
-Contact: charlottelaw@berkeley.edu
+Contact: charlottelaw@berkeley.edu  
 Website: https://www.charlotte-law.com/

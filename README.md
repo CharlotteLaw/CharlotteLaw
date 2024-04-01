@@ -6,8 +6,9 @@ Hello! I'm Charlotte Law and I'm studying EECS (Electrical Engineering and Compu
 - Web Development with Javascript (Typescript, Node.js, Next.js, React, EJS)
 - Web Development with Python (Django, Flask)
 - Machine Learning/Data Science with Python (Pandas, Numpy)
-- SQL, Java, C++, HTML/CSS, Jupyter Notebook
-- Biomedical Device Instrumentation and Biodesign
+- Java, SQL, C++, HTML/CSS, Scheme, Jupyter Notebook
+- R&D, Biomedical Device Instrumentation and Biodesign
 - 3D Modeling and 3D Animation (Onshape, Blender)
+- Git Version Control, Project Management
 
 Contact: charlottelaw@berkeley.edu  

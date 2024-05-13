@@ -2,6 +2,8 @@ Hello! I'm Charlotte Law and I'm studying EECS (Electrical Engineering and Compu
 
 🌱 I'm interested in computer science, data science, machine learning, and engineering for social good! 
 
+Project Github Portfolio: https://github.com/calblueprint/shanti-project
+
 💻 Technical Skills :  
 - Web Development with Javascript (Typescript, Node.js, Next.js, React, EJS)
 - Web Development with Python (Django, Flask)
@@ -12,3 +14,4 @@ Hello! I'm Charlotte Law and I'm studying EECS (Electrical Engineering and Compu
 - Git Version Control, Project Management
 
 Contact: charlottelaw@berkeley.edu  
+

@@ -1,8 +1,8 @@
-Hello! I'm Charlotte Law and I'm studying EECS (Electrical Engineering and Computer Science) and Bioengineering at the UC Berkeley College of Engineering.  
+`Incoming SDE @ Amazon, Prev @ Stanford, Neptune Medical, etc.`
 
-🌱 I'm interested in computer science, data science, machine learning, and engineering for social good! 
+Hello! I'm Charlotte Law, a UC Berkeley student studying Electrical Engineering, Bioengineering, and Computer Science! 
 
-Project Github Portfolio: https://github.com/calblueprint/shanti-project
+🌱 I'm interested in computer science, medtech, machine learning, and engineering for social good! 
 
 💻 Technical Skills :  
 - Web Development with Javascript (Typescript, Node.js, Next.js, React, EJS)

@@ -1,4 +1,4 @@
-**Incoming SDE Intern @ Amazon | Prev @ Stanford, Neptune Medical, etc**
+##Incoming SDE Intern @ Amazon | Prev @ Stanford, Neptune Medical, etc
 
 👋 Hello! I'm Charlotte, a UC Berkeley student studying Electrical Engineering, Bioengineering, and Computer Science! 
 

@@ -1,8 +1,10 @@
-### Incoming @ Amazon | Prev @ Stanford, Neptune Medical, etc
+### Incoming Intern @ Amazon | Prev @ Stanford, Neptune Medical
 
-👋 Hello! I'm Charlotte, a UC Berkeley student studying Electrical Engineering, Bioengineering, and Computer Science! 
+👋 Hello! I'm Charlotte, an Electrical Engineering, Bioengineering, and Computer Science major at UC Berkeley.
 
-🌱 I'm interested in medtech, machine learning, and engineering for social good! 
+💌 I am an incoming 2025 Software Development Engineering Intern at Amazon. Previously, I was a Product Development Engineering Intern at Neptune Medical where I helped develop a novel cardiovascular introducer sheath for arterial pulmonary embolism.
+
+🌱 I'm interested in medical technology, machine learning, and engineering for social good! 
 
 💻 Technical Skills :  
 - Web Development with Javascript (Typescript, Node.js, Next.js, React, EJS)
@@ -14,5 +16,6 @@
 - 3D Modeling and 3D Animation (Onshape, Blender)
 - Git Version Control, Project Management
 
-Contact: charlottelaw@berkeley.edu  
+
+[LinkedIn](https://www.linkedin.com/in/charlottelaw19/) | [Email](mailto:charlottelaw@berkeley.edu)
 

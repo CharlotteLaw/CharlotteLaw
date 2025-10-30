@@ -1,4 +1,4 @@
-### Incoming Intern @ Amazon | Prev @ Stanford, Neptune Medical
+### Intern @ Amazon | Prev @ SeQure AI, Stanford, Neptune Medical
 
 👋 Hello! I'm Charlotte, an Electrical Engineering, Bioengineering, and Computer Science major at UC Berkeley.
 

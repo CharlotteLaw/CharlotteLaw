@@ -7,9 +7,9 @@
 ## 👩‍💻 Experience
 - **Amazon (AWS):** Building a Windows diagnostic application in C#/.NET 8 for AWS Agentic Workspaces Applications; previously built real-time audio telemetry, observability, and alerting infrastructure across distributed services.
 - **Stanford Medicine:** Building clinician-facing applications, automation pipelines, custom GPTs, and AI-assisted workflows for medical education.
-- **Blueprint:** Leading nonprofit software teams and building full-stack products for Shanti Project and Just Detention International.
+- **Blueprint at Berkeley:** Leading cross-functional software teams and building full-stack products for Non-profit clients.
 - **Neurotechnology at Berkeley:** Developing automation for a neuron-culturing laboratory system.
-- **Medtech:** Worked on cardiovascular-device development at Neptune Medical and embedded medical-device prototyping through Stanford SIMR.
+- **Neptune Medical:** Worked on cardiovascular-device development at Neptune Medical and embedded medical-device prototyping through Stanford SIMR.
 
 ## ✨ Featured Projects
 - **[SkillQuest](https://github.com/CharlotteLaw/skill-quest):** Mixed-reality AI training platform using Meta Quest 3, computer vision, Llama, and voice-guided feedback.

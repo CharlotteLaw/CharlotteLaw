@@ -12,6 +12,7 @@
 - **Neptune Medical:** Worked on cardiovascular-device development and manufacturing/testing prototypes. 
 
 ## ✨ Featured Projects
+- **[Break the Silence]([https://github.com/CharlotteLaw/skill-quest](https://github.com/calblueprint/break-the-silence)):** discreet iOS app built to give domestic violence victims and survivors a safer way to seek help and document abuse.
 - **[SkillQuest](https://github.com/CharlotteLaw/skill-quest):** Mixed-reality AI training platform using Meta Quest 3, computer vision, Llama, and voice-guided feedback.
 - **[911 ResQ](https://github.com/RealMyth21/uc-berkeley-ai-hackathon-2024):** AI-assisted emergency-call triage prototype that surfaces real-time conversational risk indicators.
 - **[Shanti Project](https://github.com/calblueprint/shanti-project):** Full-stack platform supporting pet-care delivery services for people living with serious illnesses.

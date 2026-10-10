@@ -9,7 +9,7 @@
 - **Stanford Medicine:** Building clinician-facing applications, automation pipelines, custom GPTs, and AI-assisted workflows for medical education.
 - **Blueprint at Berkeley:** Leading cross-functional software teams and building full-stack products for Non-profit clients.
 - **Neurotechnology at Berkeley:** Developing automation for a neuron-culturing laboratory system.
-- **Neptune Medical:** Worked on cardiovascular-device development at Neptune Medical and embedded medical-device prototyping through Stanford SIMR.
+- **Neptune Medical:** Worked on cardiovascular-device development and manufacturing/testing prototypes. 
 
 ## ✨ Featured Projects
 - **[SkillQuest](https://github.com/CharlotteLaw/skill-quest):** Mixed-reality AI training platform using Meta Quest 3, computer vision, Llama, and voice-guided feedback.

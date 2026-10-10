@@ -1,4 +1,4 @@
-## Engineering Intern @ Amazon (AWS) | AI Automation @ Stanford Medicine
+## 2x Engineering Intern @ Amazon (AWS) | Prev @ Stanford Medicine, Neptune Medical
 
 👋 Hello! I'm Charlotte, an Electrical Engineering, Computer Science, and Bioengineering major at UC Berkeley.
 

@@ -1,35 +1,37 @@
-## 2x Engineer Intern @ Amazon (AWS) | Prev @ Stanford Medicine, Neptune Medical
+# Hi, I'm Charlotte! 👋
 
-👋 Hello! I'm Charlotte, an Electrical Engineering, Computer Science, and Bioengineering major at UC Berkeley.
+**2× Engineering Intern @ Amazon (AWS) | Technical Project Lead @ BTSADV | Technology Engineer @ Stanford Medicine**
 
-💌 I build systems at the intersection of **AI, healthcare, backend infrastructure, and human-centered technology**.
+I'm studying **Electrical Engineering and Computer Sciences** and **Bioengineering** at **UC Berkeley** (Class of 2027).
+
+💌 I enjoy building **AI-powered tools, reliable systems, and human-centered products**, especially where software meets healthcare and real-world impact.
 
 ## 👩‍💻 Experience
-- **Amazon (AWS):** Building a Windows diagnostic application in C#/.NET 8 for AWS Agentic Workspaces Applications; previously built real-time audio telemetry, observability, and alerting infrastructure across distributed services.
-- **Stanford Medicine:** Building clinician-facing applications, automation pipelines, custom GPTs, and AI-assisted workflows for medical education.
-- **Blueprint at Berkeley:** Leading cross-functional software teams and building full-stack products for clients and organizations within social good and public welfare.
-- **Neurotechnology at Berkeley:** Developing automation for a neuron-culturing laboratory system.
-- **Neptune Medical:** Worked on cardiovascular-device development and manufacturing/testing prototypes. 
+
+- **Amazon Web Services (AWS) | 2× SWE Intern:** Built a Windows-native diagnostic tool for AWS WorkSpaces Applications, combining real-time failure detection with **Amazon Bedrock and RAG**. Previously engineered audio telemetry and CloudWatch alerting across **5 distributed services**.
+- **Break the Silence Against Domestic Violence | Technical Project Lead (Contract):** Lead a **7-person engineering and design team**, work directly with nonprofit executives, and build a privacy-first mobile platform using **React Native, Expo Router, and Supabase**.
+- **Stanford Medicine | Technology Engineer Intern:** Developed an AI reporting workflow used by teams at **Stanford and Boston University**, cutting report generation from **~2 hours to ~2 minutes before human review**.
+- **Blueprint @ Berkeley | Internal VP, Former VP of Operations:** Support developer onboarding, troubleshooting, and engineering documentation for **40 developers across 5 teams**; previously shipped full-stack products for nonprofit partners.
+
+I've also worked on **neuron-culture lab automation** with Neurotechnology at Berkeley and **medical-device prototyping** at Neptune Medical.
 
 ## ✨ Featured Projects
-- **[Break the Silence](https://github.com/calblueprint/break-the-silence):** discreet iOS app built to give domestic violence victims and survivors a safer way to seek help and document abuse.
-- **[SkillQuest](https://github.com/CharlotteLaw/skill-quest):** Mixed-reality AI training platform using Meta Quest 3, computer vision, Llama, and voice-guided feedback.
-- **[911 ResQ](https://github.com/RealMyth21/uc-berkeley-ai-hackathon-2024):** AI-assisted emergency-call triage prototype that surfaces real-time conversational risk indicators.
-- **[Shanti Project](https://github.com/calblueprint/shanti-project):** Full-stack platform supporting pet-care delivery services for people living with serious illnesses.
-- **[Just Detention International](https://github.com/calblueprint/just-detention-international):** Mobile platform providing incarcerated survivors with access to legal education and healing resources.
+
+- **[Break the Silence](https://github.com/calblueprint/break-the-silence):** Privacy-first mobile platform helping domestic violence survivors access support. *In development.*
+- **[SkillQuest](https://github.com/CharlotteLaw/skill-quest):** Mixed-reality AI training prototype using **Meta Quest 3, Unity, Llama, and computer vision**.
+- **[911 ResQ](https://github.com/RealMyth21/uc-berkeley-ai-hackathon-2024):** AI-assisted emergency-call triage prototype highlighting conversational risk indicators.
+- **[Shanti Project](https://github.com/calblueprint/shanti-project):** Full-stack nonprofit platform that turned a **3–4-email ordering process** into a **~2-minute workflow**.
+- **[Just Detention International](https://github.com/calblueprint/just-detention-international):** Survivor-support resource app with **React Native, Supabase, and Retool**.
 
 ## 💻 Tech
-- **Languages:** Python, Java, C/C++, C#, TypeScript, JavaScript, SQL, HTML/CSS, Y86 Assembly
-- **Frontend & Product:** React, Next.js, React Native, Unity, WPF, Retool
-- **Backend & Data:** Node.js, Flask, Django, PostgreSQL, Supabase, REST APIs, WebSockets, Protocol Buffers
-- **Systems & Cloud:** AWS, CloudWatch, .NET 8, Linux/Unix, Windows, distributed systems, observability, telemetry, log parsing, network diagnostics
-- **AI & ML:** PyTorch, NumPy, Pandas, LLM integration, computer vision, text-to-speech, anomaly detection, data pipelines
-- **Automation:** Custom GPTs, Make.com, workflow automation
-- **Hardware & Design:** Arduino, microcontrollers, CAD, Onshape, Blender, Figma, Adobe Illustrator
-- **Tools:** Git, GitHub
 
-## 🌱 Interests
-- AI infrastructure, healthcare technology, mixed reality, developer tools, computational biology, full-stack products, photography, and music production.
+- **Languages:** Python, TypeScript/JavaScript, Java, C/C++, C#, SQL
+- **Web & Mobile:** React, Next.js, React Native, Expo Router, Node.js, Flask
+- **Cloud & Systems:** AWS, CloudWatch, .NET 8, PostgreSQL, Supabase, REST APIs, WebSockets, Linux
+- **AI & Tools:** Amazon Bedrock, RAG/LLM integration, PyTorch, Unity, Git, Figma
 
-[LinkedIn](https://www.linkedin.com/in/charlottelaw19/) | [Email](mailto:charlottelaw@berkeley.edu) | [Website](https://profiles.stanford.edu/charlotte-law)
+## 🌱 Beyond Code
 
+Interested in **AI infrastructure, healthcare technology, developer tools, computational biology, and mixed reality**. Outside engineering, I enjoy **photography and music production**. 📸🎵
+
+**[LinkedIn](https://www.linkedin.com/in/charlottelaw19/)** | **[Email](mailto:charlottelaw@berkeley.edu)** | **[Stanford Profile](https://profiles.stanford.edu/charlotte-law)**

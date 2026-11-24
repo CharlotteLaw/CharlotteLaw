@@ -1,4 +1,4 @@
-## 2x Engineering Intern @ Amazon (AWS) | Prev @ Stanford Medicine, Neptune Medical
+## 2x Engineer Intern @ Amazon (AWS) | Prev @ Stanford Medicine, Neptune Medical
 
 👋 Hello! I'm Charlotte, an Electrical Engineering, Computer Science, and Bioengineering major at UC Berkeley.
 
@@ -7,7 +7,7 @@
 ## 👩‍💻 Experience
 - **Amazon (AWS):** Building a Windows diagnostic application in C#/.NET 8 for AWS Agentic Workspaces Applications; previously built real-time audio telemetry, observability, and alerting infrastructure across distributed services.
 - **Stanford Medicine:** Building clinician-facing applications, automation pipelines, custom GPTs, and AI-assisted workflows for medical education.
-- **Blueprint at Berkeley:** Leading cross-functional software teams and building full-stack products for Non-profit clients.
+- **Blueprint at Berkeley:** Leading cross-functional software teams and building full-stack products for clients and organizations within social good and public welfare.
 - **Neurotechnology at Berkeley:** Developing automation for a neuron-culturing laboratory system.
 - **Neptune Medical:** Worked on cardiovascular-device development and manufacturing/testing prototypes. 
 

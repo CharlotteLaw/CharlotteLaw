@@ -1,4 +1,4 @@
-# Hi, I'm Charlotte! 👋
+## Hi, I'm Charlotte! 
 
 **2× Engineering Intern @ Amazon (AWS) | Technical Project Lead @ BTSADV | Technology Engineer @ Stanford Medicine**
 

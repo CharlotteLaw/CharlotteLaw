@@ -1,10 +1,10 @@
-## Hi, I'm Charlotte! 
+## 👋 Hi, I'm Charlotte! 
 
 **2× Engineering Intern @ Amazon (AWS) | Technical Project Lead @ BTSADV | Technology Engineer @ Stanford Medicine**
 
-I'm studying **Electrical Engineering and Computer Sciences** and **Bioengineering** at **UC Berkeley** (Class of 2027).
+I'm studying **Bioengineering and EECS** at **UC Berkeley** (Class of 2027).
 
-💌 I enjoy building **AI-powered tools, reliable systems, and human-centered products**, especially where software meets healthcare and real-world impact.
+💌 I enjoy building **AI-powered tools, reliable systems, and human-centered products**, especially where software meets healthcare and meaningful real-world impact.
 
 ## 👩‍💻 Experience
 
